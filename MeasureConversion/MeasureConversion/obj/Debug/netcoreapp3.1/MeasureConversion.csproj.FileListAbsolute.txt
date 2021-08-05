@@ -1,0 +1,4 @@
+C:\Users\seanf\source\repos\MeasureConversion\MeasureConversion\obj\Debug\netcoreapp3.1\MeasureConversion.csprojAssemblyReference.cache
+C:\Users\seanf\source\repos\MeasureConversion\MeasureConversion\obj\Debug\netcoreapp3.1\MeasureConversion.AssemblyInfoInputs.cache
+C:\Users\seanf\source\repos\MeasureConversion\MeasureConversion\obj\Debug\netcoreapp3.1\MeasureConversion.AssemblyInfo.cs
+C:\Users\seanf\source\repos\MeasureConversion\MeasureConversion\obj\Debug\netcoreapp3.1\MeasureConversion.csproj.CoreCompileInputs.cache
