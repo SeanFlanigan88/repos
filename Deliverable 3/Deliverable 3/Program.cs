@@ -20,6 +20,10 @@ namespace Deliverable_3
                 string input = Console.ReadLine();
                 //change input from string to int, parse
                 int parsedInput = int.Parse(input);
+                if (parsedInput < 1 || parsedInput > 100)
+                {
+                    Console.WriteLine("That is not a valid input");
+                }
 
                 //If the integer is odd, print the # and the word 'Odd'
                 //If remainder is 1, then the parsed input is odd, else it is even
