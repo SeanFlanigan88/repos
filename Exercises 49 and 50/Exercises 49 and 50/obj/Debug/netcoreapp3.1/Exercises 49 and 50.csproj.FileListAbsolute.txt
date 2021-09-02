@@ -1,0 +1,13 @@
+C:\Users\seanf\source\repos\Exercises 49 and 50\Exercises 49 and 50\bin\Debug\netcoreapp3.1\Exercises 49 and 50.exe
+C:\Users\seanf\source\repos\Exercises 49 and 50\Exercises 49 and 50\bin\Debug\netcoreapp3.1\Exercises 49 and 50.deps.json
+C:\Users\seanf\source\repos\Exercises 49 and 50\Exercises 49 and 50\bin\Debug\netcoreapp3.1\Exercises 49 and 50.runtimeconfig.json
+C:\Users\seanf\source\repos\Exercises 49 and 50\Exercises 49 and 50\bin\Debug\netcoreapp3.1\Exercises 49 and 50.runtimeconfig.dev.json
+C:\Users\seanf\source\repos\Exercises 49 and 50\Exercises 49 and 50\bin\Debug\netcoreapp3.1\Exercises 49 and 50.dll
+C:\Users\seanf\source\repos\Exercises 49 and 50\Exercises 49 and 50\bin\Debug\netcoreapp3.1\Exercises 49 and 50.pdb
+C:\Users\seanf\source\repos\Exercises 49 and 50\Exercises 49 and 50\obj\Debug\netcoreapp3.1\Exercises 49 and 50.csprojAssemblyReference.cache
+C:\Users\seanf\source\repos\Exercises 49 and 50\Exercises 49 and 50\obj\Debug\netcoreapp3.1\Exercises 49 and 50.AssemblyInfoInputs.cache
+C:\Users\seanf\source\repos\Exercises 49 and 50\Exercises 49 and 50\obj\Debug\netcoreapp3.1\Exercises 49 and 50.AssemblyInfo.cs
+C:\Users\seanf\source\repos\Exercises 49 and 50\Exercises 49 and 50\obj\Debug\netcoreapp3.1\Exercises 49 and 50.csproj.CoreCompileInputs.cache
+C:\Users\seanf\source\repos\Exercises 49 and 50\Exercises 49 and 50\obj\Debug\netcoreapp3.1\Exercises 49 and 50.dll
+C:\Users\seanf\source\repos\Exercises 49 and 50\Exercises 49 and 50\obj\Debug\netcoreapp3.1\Exercises 49 and 50.pdb
+C:\Users\seanf\source\repos\Exercises 49 and 50\Exercises 49 and 50\obj\Debug\netcoreapp3.1\Exercises 49 and 50.genruntimeconfig.cache
