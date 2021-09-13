@@ -1,0 +1,13 @@
+C:\Users\seanf\source\repos\Lab 13 RPS\Lab 13 RPS\bin\Debug\netcoreapp3.1\Lab 13 RPS.exe
+C:\Users\seanf\source\repos\Lab 13 RPS\Lab 13 RPS\bin\Debug\netcoreapp3.1\Lab 13 RPS.deps.json
+C:\Users\seanf\source\repos\Lab 13 RPS\Lab 13 RPS\bin\Debug\netcoreapp3.1\Lab 13 RPS.runtimeconfig.json
+C:\Users\seanf\source\repos\Lab 13 RPS\Lab 13 RPS\bin\Debug\netcoreapp3.1\Lab 13 RPS.runtimeconfig.dev.json
+C:\Users\seanf\source\repos\Lab 13 RPS\Lab 13 RPS\bin\Debug\netcoreapp3.1\Lab 13 RPS.dll
+C:\Users\seanf\source\repos\Lab 13 RPS\Lab 13 RPS\bin\Debug\netcoreapp3.1\Lab 13 RPS.pdb
+C:\Users\seanf\source\repos\Lab 13 RPS\Lab 13 RPS\obj\Debug\netcoreapp3.1\Lab 13 RPS.csprojAssemblyReference.cache
+C:\Users\seanf\source\repos\Lab 13 RPS\Lab 13 RPS\obj\Debug\netcoreapp3.1\Lab 13 RPS.AssemblyInfoInputs.cache
+C:\Users\seanf\source\repos\Lab 13 RPS\Lab 13 RPS\obj\Debug\netcoreapp3.1\Lab 13 RPS.AssemblyInfo.cs
+C:\Users\seanf\source\repos\Lab 13 RPS\Lab 13 RPS\obj\Debug\netcoreapp3.1\Lab 13 RPS.csproj.CoreCompileInputs.cache
+C:\Users\seanf\source\repos\Lab 13 RPS\Lab 13 RPS\obj\Debug\netcoreapp3.1\Lab 13 RPS.dll
+C:\Users\seanf\source\repos\Lab 13 RPS\Lab 13 RPS\obj\Debug\netcoreapp3.1\Lab 13 RPS.pdb
+C:\Users\seanf\source\repos\Lab 13 RPS\Lab 13 RPS\obj\Debug\netcoreapp3.1\Lab 13 RPS.genruntimeconfig.cache
